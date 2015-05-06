@@ -15,7 +15,7 @@ class Symbol(object):
 		self.timeStamps = []
 		self.quantities = []
 		self.prices = []
-
+		
 
 		self.maxTimeGap = None
 		self.volume = None
