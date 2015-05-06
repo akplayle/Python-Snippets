@@ -1,2 +1,2 @@
-# Python-Snippets
-Snippets of Python Code
+# FooBar
+Random Snippets of Code
